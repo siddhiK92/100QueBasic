@@ -20,6 +20,6 @@ public class SumOfno {
 			sum=sum+i;
 			System.out.println(sum);
 		}
-		  }
+	}
 
 }
